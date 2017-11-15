@@ -1,0 +1,10 @@
+4313,Mose,Bachelor,Surgery-General,2,50
+2525,Lucius,Bachelor,Urology,3,45
+4634,Gino,Bachelor,Infectious Disease,3,45
+3434,Cheree,Masters,Anesthesiology,1,37
+5123,Zachery,PHD,Anesthesiology,5,20
+7318,Hellen,Bachelor,Surgery-General,6,70
+8241,Tommy,Masters,Neurology,3,83
+9476,Arturo,Masters,Surgery-General,4,55
+4133,Loan,Bachelor,Surgery-General,8,70
+9987,Colette,PHD,Cardiovascular Disease,4,45

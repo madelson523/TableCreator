@@ -1,0 +1,10 @@
+82399,Cough
+48201,Sneezing
+93028,Cough
+84901,Chills
+78659,Fatigue
+86932,Weakness
+11103,Chest Pain
+03902,Dizziness
+06821,Weakness
+85932,Chest Pain

@@ -1,0 +1,10 @@
+0000,Mose,0
+1111,Shakita,0
+2222,Gino,1
+3333,Forest,2
+4444,Nestor,3
+5555,Samantha,3
+6666,Jenny,2
+7777,Billy,1
+8888,Ricardo,1
+9999,Colette,2
